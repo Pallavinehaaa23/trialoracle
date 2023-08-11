@@ -1,0 +1,14 @@
+#contactform{
+    text-align: center;
+    margin: 7pc 5pc 2px 70pc;
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    border: 2px solid black;
+    border-radius: 15px;
+    box-shadow: 0 3px 3px black;
+    
+    padding: 5pc;
+    width: 40pc;
+    height: 50pc;
+  }
